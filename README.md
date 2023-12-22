@@ -2,4 +2,4 @@
 
 
 Responsive Landing Page 
-Using HTML,CSS and Javascript.
+Using HTML,CSS and Javascript. 
